@@ -1,2 +1,2 @@
 # webpack
-All research and practice on Webpack goes here!
+All research on Webpack goes here!
