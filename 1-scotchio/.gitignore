@@ -1,0 +1,10 @@
+# ignore all logs
+*.log
+
+/node_modules
+/dist
+/bower_components
+
+.DS_Store
+.idea
+.vscode
