@@ -1,0 +1,15 @@
+{
+  "name": "3-scotchio-loaders",
+  "version": "1.0.0",
+  "description": "Demonstrate the use of Loaders: Webpack",
+  "main": "app.js",
+  "author": "@Rvind",
+  "license": "MIT",
+  "dependencies": {
+    "babel-core": "^6.24.1",
+    "babel-loader": "^6.4.1",
+    "babel-preset-es2015": "^6.24.1",
+    "css-loader": "^0.28.0",
+    "style-loader": "^0.16.1"
+  }
+}
